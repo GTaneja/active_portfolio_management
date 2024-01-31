@@ -1,0 +1,6 @@
+Portfolio Management Basics: Fundamental questions every investor should consider, such as investment goals, time frame, risk tolerance, types of acceptable risk, costs of active risk management, and methods for monitoring and evaluating risks.
+Active Portfolio Market: The document outlines the principles of active portfolio management, emphasizing the goal of outperforming benchmarks or indices through market analysis, forecasts, and individual judgment.
+Active vs. Passive Management: It distinguishes between active and passive investment strategies, highlighting the dynamic approach of active management in exploiting market inefficiencies and adjusting the portfolio's risk profile.
+Key Concepts and Definitions: The PDF introduces important concepts like alpha, market efficiency, risk adjustments, and market segments, explaining how they play a crucial role in active portfolio management.
+Strategic Approaches and Implementation: It discusses the strategic overview for active investing, including various aspects like recognizing challenges, utilizing alternative data (like credit card data and news sentiment analysis), and tactical asset allocation.
+Practical Application: The document also includes a section on implementing these strategies in a simulated environment, providing examples of how to interpret data and make informed investment decisions.
